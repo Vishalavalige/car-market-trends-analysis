@@ -27,7 +27,8 @@ Used car buyers and sellers often lack a reliable, data-driven way to judge fair
 |---|---|
 | `Car_Market_Trends_Analysis.ipynb` | Full analysis notebook — code, charts, and findings |
 | `Car Market Trends Analysis with Car Dekho Data.csv` | Raw dataset used for analysis |
-| `Car_Market_Trends_Analysis_VOIS_Mini_Project.pptx` | Final presentation slides |
+| `Car_Market_Trends_Analysis_VOIS_Mini_Project.pptx` | Final presentation slides (PowerPoint) |
+| `Car_Market_Trends_Analysis_VOIS_Mini_Project.pdf` | Final presentation slides (viewable directly on GitHub) |
 
 ## 👤 Author
 
